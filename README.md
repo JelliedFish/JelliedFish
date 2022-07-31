@@ -2,8 +2,6 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/24693046/182033167-747bb4b1-eebc-4f68-86b1-155446c95152.jpg" alt=”my banner”>
 </p>
 
-## About me
-
 ## Skills 
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -25,10 +23,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## About me
+- 🎓 Software Engineering bachelor graduate at [ITMO University](https://en.itmo.ru)
+- :man_technologist: IOS Developer at [Emlid](https://emlid.com)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
