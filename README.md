@@ -29,7 +29,3 @@
 - 📫 Connect with me: [Telegram](https://t.me/Jellied_Fish)
 - 👨‍🎓 CV : [here](https://github.com/JelliedFish/CV)
 - 🚀 Let me know if you want to collaborate on an interesting project, hackhaton, startup or blogging
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/jelliedfish)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jelliedfish)
