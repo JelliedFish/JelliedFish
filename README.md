@@ -22,3 +22,5 @@
 - 📫 Connect with me: [Telegram](https://t.me/Jellied_Fish)
 - 👨‍🎓 CV : [here](https://github.com/JelliedFish/CV)
 - 🚀 Let me know if you want to collaborate on an interesting project, hackhaton, startup or blogging
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JelliedFish&theme=dark&background=45%2C1AC1F9%2C000000&ring=01F9F2&fire=FFFFFF&currStreakLabel=FFFFFF&dates=00F7FF)](https://git.io/streak-stats)
