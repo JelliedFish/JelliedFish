@@ -23,6 +23,5 @@
 - 👨‍🎓 CV : [here](https://github.com/JelliedFish/CV)
 - 🚀 Let me know if you want to collaborate on an interesting project, hackhaton, startup or blogging
 
-<div style="text-align: center;">
-[![GitHub Streak](https://streak-stats.demolab.com?user=JelliedFish&theme=dark&background=45%2C1AC1F9%2C000000&ring=01F9F2&fire=FFFFFF&currStreakLabel=FFFFFF&dates=00F7FF)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JelliedFish&theme=dark&background=45%2C1AC1F9%2C000000&ring=01F9F2&fire=FFFFFF&currStreakLabel=FFFFFF&dates=00F7FF&card_width=1050)](https://git.io/streak-stats)
